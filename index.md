@@ -9,7 +9,7 @@
 - Raghavan Vellore Muneeswaran - velloremunee@wisc.edu
 
 ### Stages:
-- Stage 1
+- <a href = "https://github.com/raghavan94/DataScience"> Stage 1 </a>
   - <a href = "https://github.com/raghavan94/DataScience/tree/master/Dataset/AllFiles"> Marked Documents </a>
   - <a href = "https://github.com/raghavan94/DataScience/tree/master/Dataset/AllFiles/test"> Test Set </a>
   - <a href = "https://github.com/raghavan94/DataScience/tree/master/Dataset/AllFiles/train"> Test Set </a>
