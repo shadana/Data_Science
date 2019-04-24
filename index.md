@@ -21,4 +21,8 @@
   - <a href = "https://github.com/raghavan94/DataScience/tree/master/Stage2/Data"> Data </a>
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage2/Report_Stage2.pdf"> Report </a>
   
-
+- <a href = "https://github.com/raghavan94/DataScience"> Stage 3 </a>
+  - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3/fodors.csv"> Fodors table </a>
+  - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3/zagats.csv"> Zagats </a>
+  - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3/Zagots.png"> Matching Fodors and Zagats - ScreenShot1 </a>
+  - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3/Zagots_1.png"> Matching Fodors and Zagats - ScreenShot2 </a>
