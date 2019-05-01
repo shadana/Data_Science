@@ -35,4 +35,4 @@
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/Yelp_data.csv"> Yelp data </a>
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/Zomato_data.csv"> Zomato data </a>
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/ExtractionSummary.png"> Blocking - Extraction Summary </a>
-  <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/Matching.png"> Matching Summary </a> 
+  - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/Matching.png"> Matching Summary </a> 
