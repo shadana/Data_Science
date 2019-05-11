@@ -38,7 +38,7 @@
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage%203%20-%20ZomatoYelp/Matching.png"> Matching Summary </a> 
   
   - <a href = "https://github.com/raghavan94/DataScience"> Stage 3 - Estimating accuracy </a>
-- Estimatin accuracy
+- Estimating accuracy
   - User ID: Shadana, ProjectID: Group13_ZomatoYelp
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3-EstimatingAccuracy/CS%20839_Stage3_Report.pdf"> Report </a>
   - <a href = "https://github.com/raghavan94/DataScience/blob/master/Stage3-EstimatingAccuracy/PredictionSet"> Prediction Set </a>
